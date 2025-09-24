@@ -12,14 +12,14 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Cybersecurity Lab: SIEM</a>|
-| Security Automation & Incident Response       | <a href="https://google.com">Cybersecurity Lab: SIEM</a>|
-| Case Management with TheHive & Cortex         | <a href="https://google.com">Cybersecurity Lab: SIEM</a>|
-| Scripting and Automation for Threat Mitigation | <a href="https://google.com">Cybersecurity Lab: SIEM</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Cybersecurity Lab: Firewall</a>|
-| CI/CD Pipeline Deployment          | <a href="https://google.com">Azure Supplement Store</a>|
-| Containerization & Orchestration         | <a href="https://google.com">Azure Supplement Store</a>|
-| Cloud Security         | <a href="https://google.com">Azure Supplement Store</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/Yijiki/Cybersecurity-Lab-SIEM">Cybersecurity Lab: SIEM</a>|
+| Security Automation & Incident Response       | <a href="https://github.com/Yijiki/Cybersecurity-Lab-SIEM">Cybersecurity Lab: SIEM</a>|
+| Case Management with TheHive & Cortex         | <a href="https://github.com/Yijiki/Cybersecurity-Lab-SIEM">Cybersecurity Lab: SIEM</a>|
+| Scripting and Automation for Threat Mitigation | <a href="https://github.com/Yijiki/Cybersecurity-Lab-SIEM">Cybersecurity Lab: SIEM</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Yijiki/Cybersecurity-Lab-Firewall">Cybersecurity Lab: Firewall</a>|
+| CI/CD Pipeline Deployment          | <a href="https://github.com/Yijiki/Azure-Supplement-Store">Azure Supplement Store</a>|
+| Containerization & Orchestration         | <a href="https://github.com/Yijiki/Azure-Supplement-Store">Azure Supplement Store</a>|
+| Cloud Security         | <a href="https://github.com/Yijiki/Azure-Supplement-Store">Azure Supplement Store</a>|
 
 ## Tools
 
