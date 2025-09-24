@@ -57,6 +57,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 -->
 
 ## Projects
-- Cybersecurity Lab: SIEM
-- Cybersecurity Lab: Firewall
-- Azure Supplement Store
+- <a href="https://github.com/Yijiki/Cybersecurity-Lab-SIEM">Cybersecurity Lab: SIEM</a>
+- <a href="https://github.com/Yijiki/Cybersecurity-Lab-Firewall">Cybersecurity Lab: Firewall</a>
+- <a href="https://github.com/Yijiki/Azure-Supplement-Store">Azure Supplement Store</a>
