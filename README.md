@@ -6,7 +6,7 @@ I am a recent graduate with an interest in technology and a dedication to solvin
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity and cloud technologies. I am now eager to begin my career, aiming for a role as either a SOC Analyst or a DevOps Engineer.
+My journey in computer science has led me to develop a passion for cybersecurity and cloud technologies. I am now eager to begin my career, aiming for a role as either a SOC Analyst or a GRC Analyst.
 
 ## Skills
 
